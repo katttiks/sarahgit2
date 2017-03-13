@@ -1,0 +1,27 @@
+{
+  "name": "sarahgit2",
+  "version": "1.0.0",
+  "description": "Build a bot for the experienced guys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katttiks/sarahgit2.git"
+  },
+  "keywords": [
+    "bot",
+    "experienced"
+  ],
+  "author": "kartikeya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katttiks/sarahgit2/issues"
+  },
+  "homepage": "https://github.com/katttiks/sarahgit2#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
